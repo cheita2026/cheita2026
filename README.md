@@ -1,3 +1,4 @@
+![banner](/cheita2026.png)
 ### Hi there, I'm cheita2026 👋
 
 - 🔭 I’m currently working on building full-stack web applications with React and Node.js
